@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af4c71a0a30268f01c493bc8b1a03abe",
+    "revision": "0e8aa8731fa2bd7e9397b7d82dd43e0d",
     "url": "/Recipe-ReactJS-Customized-Hooks/index.html"
   },
   {
-    "revision": "db23c7a41654610e8fca",
+    "revision": "691a671da232d43530a0",
     "url": "/Recipe-ReactJS-Customized-Hooks/static/css/main.3cb48c60.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Recipe-ReactJS-Customized-Hooks/static/js/2.35d6c590.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db23c7a41654610e8fca",
-    "url": "/Recipe-ReactJS-Customized-Hooks/static/js/main.82ef627b.chunk.js"
+    "revision": "691a671da232d43530a0",
+    "url": "/Recipe-ReactJS-Customized-Hooks/static/js/main.49d12efb.chunk.js"
   },
   {
     "revision": "08539efe3552df763e9c",
