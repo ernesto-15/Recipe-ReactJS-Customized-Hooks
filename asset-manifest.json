@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.3cb48c60.chunk.css",
-    "main.js": "/repository-name/static/js/main.53241a19.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.53241a19.chunk.js.map",
-    "runtime-main.js": "/repository-name/static/js/runtime-main.8fc6ee88.js",
-    "runtime-main.js.map": "/repository-name/static/js/runtime-main.8fc6ee88.js.map",
-    "static/js/2.35d6c590.chunk.js": "/repository-name/static/js/2.35d6c590.chunk.js",
-    "static/js/2.35d6c590.chunk.js.map": "/repository-name/static/js/2.35d6c590.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.3e0eea6daa932aaa9c065df2b7e8a7bf.js": "/repository-name/precache-manifest.3e0eea6daa932aaa9c065df2b7e8a7bf.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/main.3cb48c60.chunk.css.map": "/repository-name/static/css/main.3cb48c60.chunk.css.map",
-    "static/js/2.35d6c590.chunk.js.LICENSE.txt": "/repository-name/static/js/2.35d6c590.chunk.js.LICENSE.txt"
+    "main.css": "/Recipe-ReactJS-Customized-Hooks/static/css/main.3cb48c60.chunk.css",
+    "main.js": "/Recipe-ReactJS-Customized-Hooks/static/js/main.82ef627b.chunk.js",
+    "main.js.map": "/Recipe-ReactJS-Customized-Hooks/static/js/main.82ef627b.chunk.js.map",
+    "runtime-main.js": "/Recipe-ReactJS-Customized-Hooks/static/js/runtime-main.c829e211.js",
+    "runtime-main.js.map": "/Recipe-ReactJS-Customized-Hooks/static/js/runtime-main.c829e211.js.map",
+    "static/js/2.35d6c590.chunk.js": "/Recipe-ReactJS-Customized-Hooks/static/js/2.35d6c590.chunk.js",
+    "static/js/2.35d6c590.chunk.js.map": "/Recipe-ReactJS-Customized-Hooks/static/js/2.35d6c590.chunk.js.map",
+    "index.html": "/Recipe-ReactJS-Customized-Hooks/index.html",
+    "precache-manifest.e4cf779d88fd1821e5b6094600c2502e.js": "/Recipe-ReactJS-Customized-Hooks/precache-manifest.e4cf779d88fd1821e5b6094600c2502e.js",
+    "service-worker.js": "/Recipe-ReactJS-Customized-Hooks/service-worker.js",
+    "static/css/main.3cb48c60.chunk.css.map": "/Recipe-ReactJS-Customized-Hooks/static/css/main.3cb48c60.chunk.css.map",
+    "static/js/2.35d6c590.chunk.js.LICENSE.txt": "/Recipe-ReactJS-Customized-Hooks/static/js/2.35d6c590.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fc6ee88.js",
+    "static/js/runtime-main.c829e211.js",
     "static/js/2.35d6c590.chunk.js",
     "static/css/main.3cb48c60.chunk.css",
-    "static/js/main.53241a19.chunk.js"
+    "static/js/main.82ef627b.chunk.js"
   ]
 }
